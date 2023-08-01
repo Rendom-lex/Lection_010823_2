@@ -1,0 +1,15 @@
+C:\Users\al-tr\Desktop\Lection_1_010823\Project_010823_1\bin\Debug\net6.0\Project_010823_1.exe
+C:\Users\al-tr\Desktop\Lection_1_010823\Project_010823_1\bin\Debug\net6.0\Project_010823_1.deps.json
+C:\Users\al-tr\Desktop\Lection_1_010823\Project_010823_1\bin\Debug\net6.0\Project_010823_1.runtimeconfig.json
+C:\Users\al-tr\Desktop\Lection_1_010823\Project_010823_1\bin\Debug\net6.0\Project_010823_1.dll
+C:\Users\al-tr\Desktop\Lection_1_010823\Project_010823_1\bin\Debug\net6.0\Project_010823_1.pdb
+C:\Users\al-tr\Desktop\Lection_1_010823\Project_010823_1\obj\Debug\net6.0\Project_010823_1.csproj.AssemblyReference.cache
+C:\Users\al-tr\Desktop\Lection_1_010823\Project_010823_1\obj\Debug\net6.0\Project_010823_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al-tr\Desktop\Lection_1_010823\Project_010823_1\obj\Debug\net6.0\Project_010823_1.AssemblyInfoInputs.cache
+C:\Users\al-tr\Desktop\Lection_1_010823\Project_010823_1\obj\Debug\net6.0\Project_010823_1.AssemblyInfo.cs
+C:\Users\al-tr\Desktop\Lection_1_010823\Project_010823_1\obj\Debug\net6.0\Project_010823_1.csproj.CoreCompileInputs.cache
+C:\Users\al-tr\Desktop\Lection_1_010823\Project_010823_1\obj\Debug\net6.0\Project_010823_1.dll
+C:\Users\al-tr\Desktop\Lection_1_010823\Project_010823_1\obj\Debug\net6.0\refint\Project_010823_1.dll
+C:\Users\al-tr\Desktop\Lection_1_010823\Project_010823_1\obj\Debug\net6.0\Project_010823_1.pdb
+C:\Users\al-tr\Desktop\Lection_1_010823\Project_010823_1\obj\Debug\net6.0\Project_010823_1.genruntimeconfig.cache
+C:\Users\al-tr\Desktop\Lection_1_010823\Project_010823_1\obj\Debug\net6.0\ref\Project_010823_1.dll
